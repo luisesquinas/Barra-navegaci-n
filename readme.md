@@ -1,0 +1,1 @@
+Código para tener una barra de navegación que se colapsa al hacer la pantalla más pequeña
